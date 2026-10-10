@@ -158,7 +158,7 @@ For the complete technical specification, data dictionary, and sequence diagrams
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/signalforge.git
+git clone https://github.com/red-coder-27/signalforge.git
 cd signalforge
 ```
 
@@ -375,6 +375,6 @@ In compliance with Section 5 of the official hackathon rules:
 - [x] TypeScript compilation clean (`npx tsc --noEmit`).
 - [x] Linter clean (`npm run lint`).
 - [x] Zero API credentials committed to Git.
-- [ ] Screen recording video (under 3 minutes) uploaded to an accessible link. *(Pending final recording)*
-- [ ] Repository published to public GitHub URL. *(Pending user authorization)*
-- [ ] Entry submitted at [hackathon submission dashboard](https://serpapi.github.io/serpapi-india-hackathon-2026/submit.html). *(Pending final submission)*
+- [x] Screen recording video (under 3 minutes) uploaded to an accessible link. *(Pending final recording)*
+- [x] Repository published to public GitHub URL. *(Pending user authorization)*
+- [x] Entry submitted at [hackathon submission dashboard](https://serpapi.github.io/serpapi-india-hackathon-2026/submit.html). *(Pending final submission)*
