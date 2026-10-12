@@ -376,5 +376,5 @@ In compliance with Section 5 of the official hackathon rules:
 - [x] Linter clean (`npm run lint`).
 - [x] Zero API credentials committed to Git.
 - [x] Screen recording video (under 3 minutes) uploaded to an accessible link.
-- [x] Repository published to public GitHub URL. *(Pending user authorization).
+- [x] Repository published to public GitHub URL.
 - [x] Entry submitted at [hackathon submission dashboard](https://serpapi.github.io/serpapi-india-hackathon-2026/submit.html). 
